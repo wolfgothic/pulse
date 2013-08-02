@@ -1,0 +1,139 @@
+*geocities
+
+
+
+path(red social mobil)
+
+organizar
+
+facilitar a inscripcion y 
+
+mailchimp (servicioweb mailling)
+
+interfaz de usuario - contraste y simplicidad
+
+mobile first > responsive
+
+path, vine e instagram ( primero mobiles luego escritorio)
+
+mobile -> retina 
+
+1- mobile, 2 tablet, 3 desktop
+
+retina = 4*(pixel)
+
+high dpi = retina display
+
+
+1.- vectores en la web, usar css; tipografias normales, no texto en imagenes , svg(fuerza a activar la tarjeta grafica), vectores en css.
+duplicar tamaño de imagenes, jpg exportar doble de tamaño pero al 50% de calidad.
+
+node.js facilita tiempo real
+
+* areas de la tecnologia
+	frontend(navegador ; html css js)
+	backend( sevidor ;)
+	base de datos(; programas que estructuran datos)
+	diseñadores graficos() 
+
+
+
+html lenguake de etiquetas, no lenguaje de programacion, se define semantica
+css, lenguaje de definiciones para html
+css ??? para hackers
+
+javascript, lenguaje de programacion
+
+java /=/ javascript
+
+jquery es framework
+
+html - css tecnologias
+
+
+variable: texto que se le asigna valor
+condicion:
+
+ciclo:
+funcion:
+grupo de ciclo:
+evento:
+objeto:
+	encapsular funciones.
+
+nodejs+socket.io
+
+relaciones: normalizacion
+mysql/postgres/sql server/oracle
+
+
+no relaciones: no crear enlaces 
+MongoDB/Redis/CouchDB/bigtable/casandra/pauchdb
+
+si te enseñaron .net o aspx eres pobre
+
+mockup.boceto
+
+mockup2 mas desarrollado 
+
+diseñar + creatividad luego usabilidad
+
+mockup de contenido
+
+boceto - prototipo - mockup - diseño
+
+single page aplication/push 
+
+
+tamaños
+
+logo 80*80px -> 160*160 y con css reducirlo a la mitad 72 dpi
+imagen 50*50px (100*100 px)(50% de calidad)r
+
+cuando una imagen tiene menos de 250 colores png,
+imagen con mas de 250 colores jpg
+
+no usar reset.css
+si usar normalize.css
+
+
+
+diferencia entre em y rem*****
+
+icon fonts- en paginas 
+h1 diferentes
+
+stylus + node.js
+
+320px 480px 728px 1024px 1200px
+
+30 preguntas- examen
+
+CAJAS
+
+reglas de css{
+	1- todos los atributos en orden alfabetico
+	2- orden de estilos
+		*pre render (less - stylus) @font-face
+		1.etiqueras
+		ids
+		clases
+	3- orden alfabetivo todos los estilos
+	Identar y hacer codigo lindo
+}
+
+smashing magazine
+
+70 caracteres como maximo por titulo
+
+tipografias
+ttf
+otf
+--Eot (enverement open tipe) svg(scalar vector grafic) ttf(true type font) woff(web open file format) important!
+
+fontsquirrel.com
+
+
+caniuse.com verificar compatibilidad de html5 y css3
+
+2 fuentes
