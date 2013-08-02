@@ -137,3 +137,10 @@ fontsquirrel.com
 caniuse.com verificar compatibilidad de html5 y css3
 
 2 fuentes
+
+con position relative, se podra usar top, rigth, left, bottom
+
+\u+e001(invocar bits)
+
+
+CSS agregar texto: content: "\e002";
