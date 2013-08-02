@@ -129,6 +129,9 @@ nav #publicar_nav a
 	display: inline-block;
 	padding: 0.5em 1em;
 }
+#bienvenida{
+	display: none;
+}
 #contenido
 {
 	margin: 1em;
@@ -233,4 +236,5 @@ footer
 	position: fixed;
 	text-align: center;
 	width: 100%;
+	height: 75px;
 }
